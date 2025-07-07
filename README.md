@@ -31,10 +31,8 @@ This project demonstrates how to:
 ### CloudWatch Log Group - Access Log/Error Log
 ![Access Log](screenshots/shot3.png)
 
-![Error Log](screenshots/shot2.png)
-
 ### IAM Role Assigned to EC2
-![IAM Role](screenshots/shot1.png)
+![Error Log](screenshots/shot2.png)
 
 ## Status
 ✅ Complete
