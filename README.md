@@ -21,7 +21,23 @@ This project demonstrates how to:
 - Role-based access control in AWS
 
 ## Screenshots
-(Insert screenshots here from EC2, CloudWatch logs, etc.)
+## Screenshots
+
+### EC2 Instance Running
+![EC2](screenshots/shot1.png)
+
+### Apache Web Server Homepage
+![Apache](screenshots/shot2.png)
+
+### CloudWatch Log Group - Access Log
+![Access Log](screenshots/shot3.png)
+
+### CloudWatch Log Group - Error Log
+![Error Log](screenshots/shot4.png)
+
+### IAM Role Assigned to EC2
+![IAM Role](screenshots/shot5.png)
+
 
 ## Status
 ✅ Complete
