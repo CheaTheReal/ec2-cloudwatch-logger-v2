@@ -28,11 +28,14 @@ This project demonstrates how to:
 ### Apache Web Server Homepage
 ![Apache](screenshots/shot4.png)
 
-### CloudWatch Log Group - Access Log/Error Log
-![Access Log](screenshots/shot3.png)
+### CloudWatch Log Groups
+![Log Groups](screenshots/shot3.png)
 
-### IAM Role Assigned to EC2
-![Error Log](screenshots/shot2.png)
+### IAM Role with CloudWatch Permissions
+![IAM Role](screenshots/shot2.png)
+
+### Git Commit from Mac Terminal
+![Git Commit](screenshots/shot1.png)
 
 ## Status
 ✅ Complete
