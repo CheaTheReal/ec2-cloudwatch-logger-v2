@@ -23,16 +23,16 @@ This project demonstrates how to:
 ## Screenshots
 
 ### EC2 Instance Running
-![EC2](screenshots/shot4.png)
+![EC2](screenshots/shot5.png)
 
 ### Apache Web Server Homepage
-![Apache](screenshots/shot2.png)
+![Apache](screenshots/shot4.png)
 
 ### CloudWatch Log Group - Access Log
 ![Access Log](screenshots/shot3.png)
 
 ### CloudWatch Log Group - Error Log
-![Error Log](screenshots/shot5.png)
+![Error Log](screenshots/shot2.png)
 
 ### IAM Role Assigned to EC2
 ![IAM Role](screenshots/shot1.png)
