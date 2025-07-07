@@ -28,10 +28,9 @@ This project demonstrates how to:
 ### Apache Web Server Homepage
 ![Apache](screenshots/shot4.png)
 
-### CloudWatch Log Group - Access Log
+### CloudWatch Log Group - Access Log/Error Log
 ![Access Log](screenshots/shot3.png)
 
-### CloudWatch Log Group - Error Log
 ![Error Log](screenshots/shot2.png)
 
 ### IAM Role Assigned to EC2
